@@ -1,0 +1,63 @@
+{
+    "Dragon_Ball": [
+        {
+            "name": "Vegeta",
+            "title": "El ser durmiente dentro de mí se ha despertado. Yo soy el príncipe de todos los Saiyans, una vez más... ¡Yo he vuelto",
+            "subtitle": "Vegeta después de transformarse en Super Saiyan por primera vez.",
+            "image": "https://i2.wp.com/fondocelular.com/wp-content/uploads/2017/11/Fondos-de-Vegeta-SSj-Blue-Para-el-Celular-Gratis-1024x576.jpg?resize=640%2C360"
+        },
+        {
+            "name": "Son Goku",
+            "title": "Es Por todos los que vivieron bajo el tirano Freezer, por todos los Saiyans que tú exterminaste, y también, por todos los habitantes del planeta Namek. ¡Escucha bien, te voy a matar",
+            "subtitle": "Son Goku a Freezer.",
+            "image": "https://geeky.com.ar/wp-content/uploads/2017/08/Super-Saiyan-Blue.jpg"
+        },
+        {
+            "name": "Goku Black Super Saiyan Rosado",
+            "title": "¿Qué les parece? ¿No es hermoso? Si tuviera que nombrarlo de la misma forma que ustedes, sería... Rose. Sí... Super Saiyan Rose.",
+            "subtitle": " Goku Black a Vegeta explicando la transformación.",
+            "image": "https://i.ytimg.com/vi/0QAltFxbQtM/maxresdefault.jpg"
+        
+        },
+        {
+            "name": "Son Gohan",
+            "title": "¿Quieres que acabe con él? ¡Es demasiado pronto, papá! ¡Ese gusano merece sufrir más por lo que ha hecho!",
+            "subtitle": "Gohan a Goku en la pelea contra Cell",
+            "image": "https://pre00.deviantart.net/22ef/th/pre/f/2016/229/8/9/gohan_ssj2_by_rmehedi-dae8xl8.jpg"
+        },
+        {
+            "name": "Vegetto",
+            "title": "Como Kakaroto y Vegeta se han fusionado, ha nacido un nuevo guerrero. Mi nombre es Vegetto",
+            "subtitle": "Como Kakarot y Vegeta se han fusionado, ha nacido un nuevo guerrero. Mi nombre es Vegetto",
+            "image": "https://orig00.deviantart.net/4238/f/2014/130/5/d/vegetto_super_saiyan_by_dark_crawler-d7hv5b4.png"
+        },
+        {
+            "name": "Bardock",
+            "title": "Esta será una oportunidad para cambiar el destino del Planeta Vegeta, y también cambiar mi destino, el destino de Kakarotto y obviamente ¡También tu miserable destino! ¡Será tu fin!",
+            "subtitle": "Palabras de Bardock antes de atacar a Freezer",
+            "image": "https://cde.peru.com//ima/0/0/5/9/2/592428/611x458/bardock.jpg"
+        }
+    ],
+    "Numbers": [
+        {
+            "number": "1"
+        },
+        {
+            "number": "2"
+        },
+        {
+            "number": "3"
+        }
+    ],
+    "Letters": [
+        {
+            "letter": "a"
+        },
+        {
+            "letter": "b"
+        },
+        {
+            "letter": "c"
+        }
+    ]
+}
